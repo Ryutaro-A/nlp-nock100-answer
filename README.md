@@ -6,3 +6,5 @@
 ## [第3章: 正規表現](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/03/nlp_nock03.ipynb "03")
 ## [第4章: 形態要素解析](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/04/nlp_nock04.ipynb "04")
 ## [第5章: 係り受け解析](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/05/nlp_nock05.ipynb "05")
+
+## [99. 翻訳サーバの構築](https://share.streamlit.io/ryutaro-a/translate-demo/main/main.py) (他サイトへ移動します）
