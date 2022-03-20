@@ -1,5 +1,5 @@
 # 言語処理100本ノック解答集
-ノートブックにも画像を張り付けてありますが，見づらいと思いますので章番号のフォルダを参照ください．<br>
+ノートブックにも画像を張り付けてありますが，見づらいと思いますのでお手数ですが章番号のフォルダを参照ください．<br>
 リンクをクリックするとGitHub上で開き，リンクの右側のGoogle ColabアイコンをクリックするとColab上で開きます．<br>
 また，第6章以降はファイル容量が大きいためipynbファイルといくつかのファイルのみアップロードしています．
 ## [第1章: 準備運動](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/01/nlp_nock01.ipynb "01")  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VZMfjUikDpQtpApnFWGFj40hVDeUKjXZ#scrollTo=J7_MA_p6TwEj)
