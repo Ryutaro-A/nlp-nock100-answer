@@ -11,6 +11,6 @@
 ## [第7章: 単語ベクトル](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/07/nlp_nock07.ipynb "07")
 ## [第8章: ニューラルネットワーク](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/08/nlp_nock08.ipynb "08")
 ## [第9章: RNN,CNN](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/09/nkp_nock09.ipynb "09")
-## [第10章: 機械翻訳]( "10")
-## [99. 翻訳サーバの構築](https://share.streamlit.io/ryutaro-a/translate-demo/main/main.py) (他サイトへ移動します）
+## [第10章: 機械翻訳]("10")(未完成）
+## [99. 翻訳サーバの構築]() (他サイトへ移動します，未完成）
 
