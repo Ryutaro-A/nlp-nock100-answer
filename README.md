@@ -12,5 +12,6 @@
 ## [第8章: ニューラルネットワーク](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/08/nlp_nock08.ipynb "08")
 ## [第9章: RNN,CNN](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/09/nkp_nock09.ipynb "09")
 ## [第10章: 機械翻訳]("10")(未完成）
+この章のみGoogle Colaboratory固有の機能を用いているため，お手数ですがcolabアイコンをクリックしてご覧ください．
 ## [99. 翻訳サーバの構築]() (他サイトへ移動します，未完成）
 
