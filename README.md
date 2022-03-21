@@ -13,5 +13,5 @@
 ## [第9章: RNN,CNN](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/09/nkp_nock09.ipynb "09")
 ## [第10章: 機械翻訳](https://github.com/Ryutaro-A/nlp-nock100-answer/blob/main/nlp_nock10_GRU.ipynb "10")  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VZMfjUikDpQtpApnFWGFj40hVDeUKjXZ#scrollTo=NYMbf7tEMnsf)
 この章のみGoogle Colaboratory固有の機能を用いているため，お手数ですがcolabアイコンをクリックしてご覧ください．
-## [99. 翻訳サーバの構築]() (他サイトへ移動します，未完成）
+## [99. 翻訳サーバの構築](https://share.streamlit.io/ryutaro-a/translate-demo3/main/main.py)　（他サイトに移動します）
 
